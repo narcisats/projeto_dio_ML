@@ -1,3 +1,5 @@
+- Descrição do processo - 
+
 O processo começa com a carga do conjunto de dados, que contém informações sobre as vendas de sorvete e as temperaturas registradas. Com esses dados em mãos, a próxima etapa é a seleção das colunas relevantes. Somente as variáveis que possuem impacto direto nas previsões de vendas são mantidas para o modelo.
 
 Uma vez feitas as seleções, o próximo passo é dividir os dados em dois grupos: um para treinamento e outro para teste. Essa separação é crucial para garantir que o modelo seja avaliado de maneira justa e realista.
@@ -6,7 +8,7 @@ O treinamento é realizado utilizando o conjunto de dados de treino, onde o mode
 
 Ao final do processo, os resultados são apresentados em uma tabela que inclui a temperatura, as vendas reais e as previsões feitas pelo modelo. A coluna de "Scored Labels" contém os valores previstos, que são comparados aos valores reais de vendas.
 
-Análise de Resultados e Oportunidades
+- Análise de Resultados e Oportunidades - 
 
 Uma das principais conclusões observadas é a forte correlação entre a temperatura e as vendas de sorvete. As previsões feitas pelo modelo seguem a tendência dos dados reais, reforçando a ideia de que a temperatura afeta diretamente as vendas.
 
